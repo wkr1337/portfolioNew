@@ -70,10 +70,6 @@ nav .nav-icon {
     transform: translate(-50%, -50%);
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
-/* .icon-wrapper {
-    display: inline;
-    text-align: center;
-} */
 /* Style all font awesome icons */
 .fa, .fab {
     padding: 0 0.5em;
@@ -141,11 +137,7 @@ nav .nav-icon {
     border-radius: 4px;
     /* Rounded borders */
     border: #333 1px solid;
-
     box-shadow: 0 4px 8px 0 rgba(218, 190, 190, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
-
-
 }
 
 .skills-div {
@@ -153,11 +145,7 @@ nav .nav-icon {
     text-align: right;
     padding: 5px;
     color: white;
-    /* border: #333 1px solid; */
     border-right: #333 1px solid;
-    /* Add border to text */
-    /* box-shadow: 0 4px 8px -2px rgba(218, 190, 190, 0.2), 0 6px 20px -2px rgba(0, 0, 0, 0.19); */
-
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     border-radius: 4px;
     /* Rounded borders */
@@ -234,10 +222,6 @@ textarea {
     /* Rounded borders */
     border: 1px solid #ccc;
     /* Gray border */
-
-
-
-
 }
 
 .contact-form-text {
@@ -273,9 +257,6 @@ input[type=submit]:hover {
     bottom: 0px;
     color: white;
     box-shadow: 0 4px 8px -2px rgba(218, 190, 190, 0.2), 0 6px 20px -2px rgba(0, 0, 0, 0.19);
-
-
-
 }
 
 .scroll-back-to-top-button:hover {
